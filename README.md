@@ -26,10 +26,9 @@ Welcome to my GitHub! I'm a passionate full-stack developer, specializing in bui
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech! 
 
-- 📧 **Email**: kayb@example.com
-- 🌐 **Website**: [kayb.dev](https://www.kayb.dev)
-- 🐦 **Twitter**: [@kayb_dev](https://twitter.com/kayb_dev)
-- 🔗 **LinkedIn**: [Kayb's LinkedIn](https://www.linkedin.com/in/kayb)
+- 📧 **Email**: campbellkaybriana@yahoo.com
+- 🌐 **Website**: [kayb.dev](https://kaybcampp.github.io/portfolio/)
+- 🔗 **LinkedIn**: [Kayb's LinkedIn](www.linkedin.com/in/kaybriana-campbell-a539752a6)
 
 ---
 
