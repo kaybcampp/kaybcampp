@@ -18,11 +18,11 @@ Welcome to my GitHub! I'm a passionate full-stack developer, specializing in bui
 
 ## 🚀 Current Projects
 
-1. **[MindWave](https://github.com/yourusername/mindwave)**: A mental wellness app that combines task management with AI-driven insights to help users track their well-being.
-2. **[SunnyMac](https://github.com/yourusername/sunnymac)**: A solar panel estimator that calculates the cost of installation based on various user inputs, using simple logic.
-3. **[DracosTrapHouse](https://github.com/yourusername/dracostraphouse)**: A portfolio website showcasing my development work and products, featuring custom-designed web components.
-
+**[MindWave](https://dracocodes.com)**
+**[DracosTrapHouse](https://dracostraphouse.com)**
 ---
+
+LinkedIn: (www.linkedin.com/in/kaybriana-campbell-a539752a6)
 
 Thank you for visiting my profile! Check out my repositories and feel free to open an issue or submit a pull request if you're interested in collaborating. 🚀
 
