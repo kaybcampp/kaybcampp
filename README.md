@@ -18,8 +18,10 @@ Welcome to my GitHub! I'm a passionate full-stack developer, specializing in bui
 
 ## 🚀 Current Projects
 
-**[MindWave](https://dracocodes.com)**
+**[DracoCodes](https://dracocodes.com)**
+
 **[DracosTrapHouse](https://dracostraphouse.com)**
+
 ---
 
 LinkedIn: (www.linkedin.com/in/kaybriana-campbell-a539752a6)
