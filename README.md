@@ -18,8 +18,6 @@ Welcome to my GitHub! I'm a passionate full-stack developer, specializing in bui
 
 ## 🚀 Current Projects
 
-**[DracoCodes](https://dracocodes.com)**
-
 **[DracosTrapHouse](https://dracostraphouse.com)**
 
 ---
